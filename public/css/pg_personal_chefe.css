@@ -131,13 +131,14 @@
   display: grid;
   grid-template-rows: 1fr 10fr;
   text-align: center;
+  margin-top: 160px;
 }
 
 .planos_personal_chefe {
   display: grid;
 
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  
   gap: 30px 0;
   place-items: center;
 }
@@ -269,8 +270,8 @@ p {
   }
 
   .pg_personal_chefe {
-    padding-top: 100px;
-    gap: 30px;
+    padding-top: 0;
+    gap: 0px;
   }
 
   .segunda_section {
@@ -286,10 +287,12 @@ p {
 
   .cabecalho_planos {
     height: 100px;
+    padding: 50 50px;
   }
 
   .sessao_planos_personal_chefe {
     grid-template-rows: 1fr 20fr;
+    margin-top: 0;
   }
 }
 

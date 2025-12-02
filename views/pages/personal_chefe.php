@@ -2,11 +2,13 @@
         
 
         <section class="sessao_planos_personal_chefe">
+            
             <div class="cabecalho_planos"><h2>Planos de Atendimento Personal Chefe</h2></div>
 
             <section class="planos_personal_chefe">
 
                 <div class="planos plano_coviniencia">
+
 
                     <h3>Coviniência →R$ 350,00</h3>
                     <p>
