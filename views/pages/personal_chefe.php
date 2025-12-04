@@ -180,9 +180,8 @@
     </p>
 
     <h4>Consultar taxa de deslocamento, informando o Cep para o atendimento</h4>
-    <h4>Contato Para Agendamento e Duvidas</h4>
 
-    <a class="telefone_para_contato" href="https://wa.me/5511940367571" target="_blank" rel="noopener noreferrer">WhatsApp para Contato: (+55) 11 940367571</a>
+    <a class="telefone_para_contato" href="https://wa.me/5511940367571" target="_blank" rel="noopener noreferrer">Contato Para Agendamento e Duvidas</a>
 
 </section>
 

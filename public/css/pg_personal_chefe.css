@@ -77,7 +77,7 @@
 .sobre_personal_chefe {
   display: flex;
   flex-direction: column;
-  align-items: baseline;
+  justify-content: center;
 }
 
 /* SEGUNDA SECTION (COMO FUNCIONA) */
@@ -86,6 +86,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 0px 50px;
+  justify-content: center;
 }
 
 .foto_acao_personal_chefe img {
@@ -106,6 +107,7 @@
 .acao_personal_chefe p,
 .sobre_personal_chefe p {
   text-align: left;
+  padding: 0px;
 }
 
 .foto_acao_personal_chefe {
@@ -148,7 +150,7 @@
 /* CARD INDIVIDUAL */
 .planos {
   border-radius: 10px;
-  background-color: #8f999e;
+  background-color: #344249;
   width: 350px; /* largura fixa desejada */
   height: 550px; /* altura padrão */
   text-align: center;
@@ -184,7 +186,14 @@ p {
 }
 
 .telefone_para_contato {
-  text-decoration: underline;
+  border-radius: 12px;
+  border: 1px solid green;
+  padding: 16px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  max-width: 350px;
+  text-align: center;
 }
 
 /* ====== MEDIA QUERIES ====== */
